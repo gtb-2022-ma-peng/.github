@@ -15,4 +15,4 @@ My name is MaPeng
 
 
 This is me in April 2022
-![头像](https://user-images.githubusercontent.com/56461028/164953287-303abd6d-620f-4dc4-a7eb-f60636065110.jpg){:width="100px" height="100px"}
+![头像](https://user-images.githubusercontent.com/56461028/164953287-303abd6d-620f-4dc4-a7eb-f60636065110.jpg)
